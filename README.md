@@ -1,6 +1,7 @@
-# flutter_calender
+## flutter_calender
 
-A new Flutter project.
+A new Flutter project built as an assignment in ``` PESU I/O ``` Course
+
 
 ## Getting Started
 
